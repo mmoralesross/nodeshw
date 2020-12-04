@@ -1,5 +1,6 @@
 var inquirer = require('inquirer');
-var generateMarkDown = require ('./utils/generateMarkdown')
+var fs = require ("fs")
+var generateMarkDown = require ('./generateMarkdown')
 
 
 // array of questions for user
@@ -13,6 +14,18 @@ const questions = [
         type: "input",
         message: "What is your project about?",
         name: "description"
+    },
+    {
+        type: "input",
+        message: "How would you use this app?",
+        name: "usage"
+    },
+    {
+        type: "list",
+        message: "How to report issues?",
+        name: "issues",
+        choices: ["tell mom","ask teacher","ask google"]
+
     }
 ];
 
@@ -33,7 +46,8 @@ function writeToFile(fileName, data) {
 function init() {
 inquirer.prompt (questions).then(function(data){
     console.log (data)
-    var markDown = 
+    var markDown = generateMarkDown (data)
+   writeToFile ("GENREADME.md",markDown);
 })
 
 }
