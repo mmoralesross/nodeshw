@@ -21,10 +21,10 @@ const questions = [
         name: "usage"
     },
     {
-        type: "list",
-        message: "How to report issues?",
-        name: "issues",
-        choices: ["tell mom","ask teacher","ask google"]
+        type: "input",
+        message: "How do you install the app?",
+        name: "issues"
+        
 
     }
 ];
