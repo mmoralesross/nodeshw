@@ -45,6 +45,11 @@ const questions = [
         message: "Please enter your email",
         name: "email"
     },
+    {
+        type: "input",
+        message: "Enter license information",
+        name: "license"
+    },
 ];
 
 // function to write README file

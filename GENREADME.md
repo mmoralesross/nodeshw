@@ -1,6 +1,6 @@
-#popcorn
+# s
 
-  popcorn
+  d
 
 # Table of Contents
 
@@ -9,17 +9,34 @@
 3. [INSTALLATION](#installation)
 4. [CONTRIBUTIONS](#contributions)
 5. [TESTS](#tests)
-6.  [QUESTIONS](#questions)
+6. [LICENSE](#license)
+7. [QUESTIONS](#questions)
 
-  # USAGE 
-  popcorn
-  # ISSUES
-  yes
-  # INSTALLATION
-  popcorn
-   # CONTRIBUTIONS
-  popcorn
-  # TESTS
-  yes
-  #QUESTIONS
-  yes
+# USAGE 
+
+  c
+
+# ISSUES
+
+  f
+
+# INSTALLATION
+
+  v
+
+# CONTRIBUTIONS
+
+  b
+
+# TESTS
+
+  n
+
+# LICENSE
+
+  b
+ 
+
+# QUESTIONS
+
+  g
