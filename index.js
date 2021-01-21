@@ -23,10 +23,28 @@ const questions = [
     {
         type: "input",
         message: "How do you install the app?",
-        name: "issues"
-        
-
-    }
+        name: "installation"
+    },
+    {
+        type: "input",
+        message: "How do you make contributions?",
+        name: "contributions"
+    },
+    {
+        type: "input",
+        message: "Tests",
+        name: "tests"
+    },
+    {
+        type: "input",
+        message: "Please enter your github username",
+        name: "github"
+    },
+    {
+        type: "input",
+        message: "Please enter your email",
+        name: "email"
+    },
 ];
 
 // function to write README file
