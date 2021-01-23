@@ -1,6 +1,6 @@
-# s
+# readme generator
 
-  d
+  creating a good readme generator
 
 # Table of Contents
 
@@ -14,29 +14,29 @@
 
 # USAGE 
 
-  c
+  opening it and answering prompted questions
 
 # ISSUES
 
-  f
+  mmoralesross
 
 # INSTALLATION
 
-  v
+  node index
 
 # CONTRIBUTIONS
 
-  b
+  opening the repo in your computer
 
 # TESTS
 
-  n
+  na
 
 # LICENSE
 
-  b
+  na
  
 
 # QUESTIONS
 
-  g
+  mmoralesross@gmail.com
